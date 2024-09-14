@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Satria Aji
 [![Leetcode Stats](https://leetcard.jacoblin.cool/satriaye)](https://leetcode.com/satriaye)
 
 
