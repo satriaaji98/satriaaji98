@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Satria Aji
 <!--[![Leetcode Stats](https://leetcard.jacoblin.cool/satriaye)](https://leetcode.com/satriaye)
 
-**satriaaji98/satriaaji98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**satriaye/satriaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
